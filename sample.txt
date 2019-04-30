@@ -1,0 +1,17 @@
+
+for git init, status, add, commit -m, push -u origin master...etc test
+
+$ git init
+$ git status
+$ git add sample.txt
+$ git commit -m sample.txt
+$ git push -u origin master
+
+$ git branch -a
+$ git checkout master
+
+$ git rm sample.txt
+$ git commit -m sample.txt
+$ git push -u origin master
+
+$ git puh origin :branch // delete the branch on Git
